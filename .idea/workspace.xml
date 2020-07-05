@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -48,6 +49,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+=======
+>>>>>>> 8335c6243bb1bfb035b13bae65a154783bda91f4
   <component name="RunManager">
     <configuration name="fx-private-relay" type="Python.DjangoServer" factoryName="Django server">
       <module name="fx-private-relay" />
@@ -73,6 +76,7 @@
       <method v="2" />
     </configuration>
   </component>
+<<<<<<< HEAD
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -129,4 +133,6 @@
     </state>
     <state x="460" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1344.817@0.23.1344.817" timestamp="1593606365936" />
   </component>
+=======
+>>>>>>> 8335c6243bb1bfb035b13bae65a154783bda91f4
 </project>
